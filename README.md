@@ -13,4 +13,17 @@ ve test ediyorsunuz artık oyuncunun olduğu kordinatlarda eğer configde buluna
       - x: -400
       - y: 80
       - z: -400
+     
+ - bundan istediğiniz kadar koyabilirsiniz ismi farklı olmak şekilinde
+  - Almanya:
+    - world: world
+    - pos1:
+      - x: 10
+      - y: 30
+      - z: 10
+    - pos2:
+      - x: 50
+      - y: 70
+      - z: 50
+        
 - placeholderapi: %konum_current_location%
