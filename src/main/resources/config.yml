@@ -1,0 +1,24 @@
+  Türkiye:
+    world: world #dünyanın adı örnek dünya mapi hangi dünyada ise onun adını yaz
+    pos1: #pos 1 ve pos2 seçeceğiniz bölgenin bir diğer sol alt bölgesi diğeri ise tam çapraz pos2 bölgesidir
+      x: -500
+      y: 60
+      z: -500
+    pos2:
+      x: -400
+      y: 80
+      z: -400
+
+# bundan istediğiniz kadar koyabilirsiniz ismi farklı olmak şekilinde
+  Almanya:
+    world: world
+    pos1:
+      x: 10
+      y: 30
+      z: 10
+    pos2:
+      x: 50
+      y: 70
+      z: 50
+
+#placeholder %konum_current_location%

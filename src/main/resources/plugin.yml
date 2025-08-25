@@ -1,0 +1,22 @@
+name: KonumPlugin
+version: '1.0'
+main: org.example1.konumPlugin.KonumPlugin
+api-version: '1.21'
+prefix: KonumEklentisi
+authors: [CanXD]
+description: Konum Eklentisi configde gösterilen yerleri placeholderda gösterir
+website: www.limenw.com
+folia-supported: true
+depend: [PlaceholderAPI]
+
+commands:
+  konumadmin:
+    description: Konum Eklentisi
+    usage: /<command> [reload]
+    permission: konumplugin.admin
+    permission-message: yetkiniz yok
+
+permissions:
+  konumplugin.admin:
+    description: Konum Eklentisi
+    default: op
