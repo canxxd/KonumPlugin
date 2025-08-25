@@ -16,7 +16,7 @@ ve test ediyorsunuz artık oyuncunun olduğu kordinatlarda eğer configde buluna
      
  - bundan istediğiniz kadar koyabilirsiniz ismi farklı olmak şekilinde
   
-  - Almanya:
+    Almanya:
     - world: world
     - pos1:
       - x: 10
