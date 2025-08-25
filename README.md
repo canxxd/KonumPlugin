@@ -15,6 +15,7 @@ ve test ediyorsunuz artık oyuncunun olduğu kordinatlarda eğer configde buluna
       - z: -400
      
  - bundan istediğiniz kadar koyabilirsiniz ismi farklı olmak şekilinde
+  
   - Almanya:
     - world: world
     - pos1:
