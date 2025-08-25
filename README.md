@@ -1,16 +1,16 @@
-**KonumPlugin**, Minecraft sunucularınızda özel bölgeler (regions) tanımlamanıza ve oyuncuların hangi bölgede olduğunu **anlık olarak takip etmenize** olanak tanıyan bir Bukkit/Spigot eklentisidir.  
+**KonumPlugin**, Minecraft sunucularınızda özel bölgeler (regions) tanımlamanıza ve oyuncuların hangi bölgede olduğunu **anlık olarak takip etmenize** olanak tanıyan bir Bukkit/Spigot/foliaya uygun eklentidir
 
-## ✨ Özellikler
-- `config.yml` üzerinden istediğiniz bölgeleri tanımlayabilirsiniz.  
-- Bölge sınırlarını **iki köşe noktası** (pos1, pos2) ile belirleyebilirsiniz.  
-- Oyuncuların bulunduğu bölgeyi **PlaceholderAPI** desteğiyle gösterebilirsiniz.  
-- `/konumadmin reload` komutuyla config’i yeniden yükleyebilirsiniz.  
-- Tablist, scoreboard veya chat mesajlarında bölge adını gösterebilirsiniz.  
+## ✨ Özelliklerimiz
+- `config.yml` üzerinden istediğiniz bölgeleri tanımlayabilirsiniz  
+- Bölge sınırlarını **iki köşe noktası** (pos1 pos2) ile belirleyebilirsiniz 
+- Oyuncuların bulunduğu bölgeyi **PlaceholderAPI** desteğiyle gösterebilirsiniz
+- `/konumadmin reload` komutuyla config yeniden yükleyebilirsiniz  
+- Tablist scoreboard veya chat mesajlarında bölge adını gösterebilirsiniz 
 
 ## ⚙️ Kurulum
-1. `KonumPlugin.jar` dosyasını `plugins/` klasörüne atın.  
-2. Sunucuyu başlatın.  
-3. `config.yml` içinde örnek bir bölge tanımlayın:  
+1. `KonumPlugin.jar` dosyasını `plugins/` klasörüne atın folia paper farketmek sizin
+2. Sonra Sunucuyu başlatın  
+3. `config.yml` içinde örnek bir bölge tanımlayın bitti  
 
  örnek config.yml
  - 
