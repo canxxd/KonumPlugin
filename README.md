@@ -1,5 +1,16 @@
-KonumPlugin Eklentisi Dünya Haritası vb kullanıyorsanız bu eklenti config.ymlde örneğin türkiye bölgesinin kordinatlarını config.ymlde seçip ayarlıyorsunuz /konumadmin reload komutunu kullanarak o bölgeye gidip %konum_current_location% taba veya socreboarda ekliyorsunuz 
-ve test ediyorsunuz artık oyuncunun olduğu kordinatlarda eğer configde bulunan bölgeler varsa o bölge an ve an placeholderda gösterir
+**KonumPlugin**, Minecraft sunucularınızda özel bölgeler (regions) tanımlamanıza ve oyuncuların hangi bölgede olduğunu **anlık olarak takip etmenize** olanak tanıyan bir Bukkit/Spigot eklentisidir.  
+
+## ✨ Özellikler
+- `config.yml` üzerinden istediğiniz bölgeleri tanımlayabilirsiniz.  
+- Bölge sınırlarını **iki köşe noktası** (pos1, pos2) ile belirleyebilirsiniz.  
+- Oyuncuların bulunduğu bölgeyi **PlaceholderAPI** desteğiyle gösterebilirsiniz.  
+- `/konumadmin reload` komutuyla config’i yeniden yükleyebilirsiniz.  
+- Tablist, scoreboard veya chat mesajlarında bölge adını gösterebilirsiniz.  
+
+## ⚙️ Kurulum
+1. `KonumPlugin.jar` dosyasını `plugins/` klasörüne atın.  
+2. Sunucuyu başlatın.  
+3. `config.yml` içinde örnek bir bölge tanımlayın:  
 
  örnek config.yml
  - 
