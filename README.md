@@ -3,13 +3,13 @@ ve test ediyorsunuz artık oyuncunun olduğu kordinatlarda eğer configde buluna
 
  örnek config.yml
  - 
-  Türkiye:
-    world: world #dünyanın adı örnek dünya mapi hangi dünyada ise onun adını yaz
-    pos1: #pos 1 ve pos2 seçeceğiniz bölgenin bir diğer sol alt bölgesi diğeri ise tam çapraz pos2 bölgesidir
-      x: -500
-      y: 60
-      z: -500
-    pos2:
-      x: -400
-      y: 80
-      z: -400
+  - Türkiye:
+    - world: world #dünyanın adı örnek dünya mapi hangi dünyada ise onun adını yaz
+    - pos1: #pos 1 ve pos2 seçeceğiniz bölgenin bir diğer sol alt bölgesi diğeri ise tam çapraz pos2 bölgesidir
+      - x: -500
+      - y: 60
+      - z: -500
+    - pos2:
+      - x: -400
+      - y: 80
+      - z: -400
