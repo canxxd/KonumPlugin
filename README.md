@@ -13,3 +13,4 @@ ve test ediyorsunuz artık oyuncunun olduğu kordinatlarda eğer configde buluna
       - x: -400
       - y: 80
       - z: -400
+- placeholderapi: %konum_current_location%
